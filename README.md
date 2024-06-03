@@ -2,7 +2,7 @@
 <h2>MUSHROOM CLASSIFICATION</h2>
 <h2>Introduction</h2>
 <h3>
-  This project is aimed at building a machine learning model to classify mushrooms based on their features into edible or poisonous categories. It utilizes the dataset which contains various attributes of mushrooms such as cap shape, cap color, odor, etc., and their corresponding classes.<br/><hr>
+  This project is aimed at building a machine learning model to classify mushrooms based on their features into edible or poisonous categories. It utilizes the <a href="./mushrooms.csv">dataset</a> which contains various attributes of mushrooms such as cap shape, cap color, odor, etc., and their corresponding classes.The code is present in this <a href="./Mushroom_EP.ipynb">Jupyter notebook</a><br/><hr>
 </h3>
 
 <h2>Features:</h2><ul>
